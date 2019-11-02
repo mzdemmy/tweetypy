@@ -56,7 +56,7 @@ Tara
 Research data sources
 Data clean-up (census income)
 Heat map - all three elements (income, housing, population - by ward)
-presentation slides
+presentation slides and final project summary
 
 Peter 
 Research data sources
