@@ -1,6 +1,6 @@
 Putting in all together:  Working as a team
 
-Below is some insight of how Tweety begin workingon project1.
+Below is some insight of how Tweetypy began working on project1.
 
 
 Project Title:  Everybody Loves Maps:  What migration maps/charts tell us about the relationship between gentrification and the impact of equity in DC public schools? Gentrification   
@@ -14,12 +14,12 @@ This is happening:  Map DC community gentrification are housing cost or income d
 Effect on focus group:  Map K-12 School migration in gentrification communities: minority vs non-minority rate over past 50 years
 Show me the data: Intra- and inter-community migration patterns of minority/non-minority students to private, public, charter schools in/near these communities
 
-Research Question(s) to Answer:
+Original Research Question(s) to Answer (these are subject to change)
 What is the gentrification trend over the past 10-15 years in DC Proper?
 What are the schools (public, private, charter) in/around these communities and the percentage of minority to non-minority students at these schools over the past 10-15 years?
 How does the relationship between gentrification and segregation change the student diversity make-up at k-12 schools?
 
-Data Sources/Sets We Can Use:
+Data Sources/Sets We Can Start With:
 (sources)
 Census Data/usa.IPUMS.org
 NCES.ed.gov
@@ -29,30 +29,28 @@ ed.gov civil rights data collection)
 dcps.dc.gov/opendata.dc.goc/
 
 Note: Equity Vs. equality: Equity is giving everyone what they need to be successful. Equality is treating everyone the same.
-T
-eam Members:
-Rough Breakdown of Tasks:
-Robel 
+Team Members:Rough Breakdown of Tasks:
+Robel :
+Research dc gentrification 
 Research data sources
 Data clean-up (census housing)
 bar chart housing (2000 & 2016)
 
-
-Nick of the Back 
+Nick:
 Research data sources
-1 pie charts with demographic information (students)
+help with data analysis/
 data analysis consolidation
 presentation slides
 
 Desiree 
 Research data sources
 Code help
-1 Bar charts income (2000 & 2016)
 Github leader (initial)
 
 Tommy 
 Research data sources
-1 pie charts with demographic information (students)
+data clean-up (census demographic/population)
+pie chart/graph(s) with demographic/population information (students)
 
 Tara
 Research data sources
@@ -69,7 +67,7 @@ Demmy
 Research data sources
 Data clean-up (student population and enrollment data)
 Clean data consolidaiton
-github leader (oveall code "clean-up")
+github leader (oveall code "clean-up" and organization)
 
 
 Hypothesis/ Question: 
@@ -162,16 +160,6 @@ black/white enrollment
 ·      https://ocrdata.ed.gov/flex/Reports.aspx?type=school 
 ·      https://nces.ed.gov/ccd/schoolsearch/school_list.asp?Search=1&InstName=&SchoolID=&Address=&City=&State=11&Zip=&Miles=&County=&PhoneAreaCode=&Phone=&DistrictName=&DistrictID=&SchoolType=1&SchoolType=2&SchoolType=3&SchoolType=4&SpecificSchlTypes=all&IncGrade=-1&LoGrade=-1&HiGrade=-1
  
- 
- 
-
-
-
-
-
-
-
-
 Years different colors (2000 & 2016) 
 Each ward gets 2 years 
 From 2000-2016 - total percentage of median income
